@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 public class ejercicioG {
-    public static void ejercicio7() {
+    public static void cadenasConcatenadas() {
         Scanner sc = new Scanner(System.in); 
         // Creamos un objeto de tipo Scanner para leer datos de entrada del usuario
         System.out.print("Introduce la primera cadena: "); 

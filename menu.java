@@ -29,31 +29,31 @@ public class menu {
             // Leemos la opcion introducida por el usuario y se almacena en la variable opcion
             switch(opcion) {
                 case 1:
-                    ejercicioA.ejercicio1();
+                    ejercicioA.numeros();
                     break;
                 case 2:
-                    ejercicioB.ejercicio2();
+                    ejercicioB.numerosInversos();
                     break;
                 case 3:
-                    ejercicioC.ejercicio3();    // En cada uno llamamos  a la clase con su letra y al metodo ejercicio y su numero
+                    ejercicioC.mediaNumeros();    // En cada uno llamamos  a la clase con su letra y al metodo ejercicio y su numero
                     break;
                 case 4:
-                    ejercicioD.ejercicio4();
+                    ejercicioD.cantidadDeCaracteres();
                     break;
                 case 5:
-                    ejercicioE.ejercicio5();
+                    ejercicioE.inversionDeTexto();
                     break;
                 case 6:
-                    ejercicioF.ejercicio6();
+                    ejercicioF.textoSinEspacios();
                     break;
                 case 7:
-                    ejercicioG.ejercicio7();
+                    ejercicioG.cadenasConcatenadas();
                     break;
                 case 8:
-                    ejercicioH.ejercicio8();
+                    ejercicioH.cadenaCambioVocal();
                     break; 
                 case 9:
-                    ejercicioI.ejercicio9();
+                    ejercicioI.mostrarCodigoAscii();
                     break; 
                 case 0:
                     System.out.println("Saliendo del programa...");

@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 public class ejercicioE {
-    public static void ejercicio5() {
+    public static void inversionDeTexto() {
         Scanner sc = new Scanner(System.in); 
         // Creamos un objeto de tipo Scanner para leer datos de entrada del usuario
         System.out.print("Introduce un texto: "); 

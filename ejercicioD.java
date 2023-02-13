@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 public class ejercicioD {
-    public static void ejercicio4() {
+    public static void cantidadDeCaracteres() {
         Scanner sc = new Scanner(System.in); 
         // Creamos un objeto de tipo Scanner para leer datos de entrada del usuario
         System.out.print("Introduce un texto: "); 

@@ -3,7 +3,7 @@
 import java.util.Scanner;
 
 public class ejercicioI {
-    public static void ejercicio9() {
+    public static void mostrarCodigoAscii() {
         Scanner sc = new Scanner(System.in); 
         // Creamos un objeto de tipo Scanner para leer datos de entrada del usuario
         System.out.print("Introduce una cadena: "); 

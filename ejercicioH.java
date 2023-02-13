@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class ejercicioH {
 
-    public static void ejercicio8() {
+    public static void cadenaCambioVocal() {
         Scanner sc = new Scanner(System.in);
         // Creamos un objeto de tipo Scanner para leer datos de entrada del usuario
         System.out.print("Introduce una cadena: ");
@@ -40,4 +40,3 @@ public class ejercicioH {
         // Mostramos por pantalla la cadena con las vocales sustituidas
     }
 }
-

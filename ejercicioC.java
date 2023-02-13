@@ -3,7 +3,7 @@
 import java.util.Scanner;
 
 public class ejercicioC {
-    public static void ejercicio3() {
+    public static void mediaNumeros() {
         Scanner sc = new Scanner(System.in); 
         // Creamos un objeto de tipo Scanner para leer datos de entrada del usuario
         int contadorPositivos = 0; 
