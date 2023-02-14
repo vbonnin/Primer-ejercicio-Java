@@ -9,7 +9,7 @@ public class ejercicioF {
         // Pedimos al usuario que introduzca un texto
         String texto = sc.nextLine(); 
         // Creamos una variable para recoger el texto introducido por el usuario
-        String sinEspacios = texto.replaceAll("\\s", ""); 
+        String sinEspacios = texto.replaceAll(" ", ""); 
         // Reemplazamos todos los espacios en blanco del texto con una cadena vacia con el metodo replaceALl
 
         System.out.println("El texto sin espacios es: " + sinEspacios); 
