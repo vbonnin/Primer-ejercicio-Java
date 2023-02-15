@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 // Importamos la clase Scanner para poder leer los numeros que introduzca el usuario
-public class ejercicioA {
+public class EjercicioA {
     // Creamos la clase y llamamos al metodo ejercicio1
     public static void numeros() {
         Scanner sc = new Scanner(System.in);

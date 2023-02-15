@@ -1,7 +1,7 @@
 // Reciba como parámetro un texto y devuelva la cantidad de caracteres que incorpora el texto.
 import java.util.Scanner;
 
-public class ejercicioD {
+public class EjercicioD {
     public static void cantidadDeCaracteres() {
         Scanner sc = new Scanner(System.in); 
         // Creamos un objeto de tipo Scanner para leer datos de entrada del usuario

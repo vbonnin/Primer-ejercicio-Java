@@ -2,7 +2,7 @@
 // Este menú se debe realizar con un switch.
 import java.util.Scanner;
 // Importamos la clase Scanner para poder leer las entradas del usuario
-public class menu {
+public class Menu {
 // Definimos la classe menu
     public static void main(String[] args) {
         // Definimos el metodo main
@@ -29,31 +29,31 @@ public class menu {
             // Leemos la opcion introducida por el usuario y se almacena en la variable opcion
             switch(opcion) {
                 case 1:
-                    ejercicioA.numeros();
+                    EjercicioA.numeros();
                     break;
                 case 2:
-                    ejercicioB.numerosInversos();
+                    EjercicioB.numerosInversos();
                     break;
                 case 3:
-                    ejercicioC.mediaNumeros();    // En cada uno llamamos  a la clase con su letra y al metodo ejercicio y su numero
+                    EjercicioC.mediaNumeros();    // En cada uno llamamos  a la clase con su letra y al metodo ejercicio y su numero
                     break;
                 case 4:
-                    ejercicioD.cantidadDeCaracteres();
+                    EjercicioD.cantidadDeCaracteres();
                     break;
                 case 5:
-                    ejercicioE.inversionDeTexto();
+                    EjercicioE.inversionDeTexto();
                     break;
                 case 6:
-                    ejercicioF.textoSinEspacios();
+                    EjercicioF.textoSinEspacios();
                     break;
                 case 7:
-                    ejercicioG.cadenasConcatenadas();
+                    EjercicioG.cadenasConcatenadas();
                     break;
                 case 8:
-                    ejercicioH.cadenaCambioVocal();
+                    EjercicioH.cadenaCambioVocal();
                     break; 
                 case 9:
-                    ejercicioI.mostrarCodigoAscii();
+                    EjercicioI.mostrarCodigoAscii();
                     break; 
                 case 0:
                     System.out.println("Saliendo del programa...");

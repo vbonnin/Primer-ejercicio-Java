@@ -2,7 +2,7 @@
 // caracteres de la cadena (no devuelve nada el método).
 import java.util.Scanner;
 
-public class ejercicioI {
+public class EjercicioI {
     public static void mostrarCodigoAscii() {
         Scanner sc = new Scanner(System.in); 
         // Creamos un objeto de tipo Scanner para leer datos de entrada del usuario

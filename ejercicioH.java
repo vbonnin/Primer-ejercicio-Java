@@ -2,7 +2,7 @@
 // de la cadena por la vocal que se ha pasado como parámetro (no devuelve nada).
 import java.util.Scanner;
 
-public class ejercicioH {
+public class EjercicioH {
 
     public static void cadenaCambioVocal() {
         Scanner sc = new Scanner(System.in);

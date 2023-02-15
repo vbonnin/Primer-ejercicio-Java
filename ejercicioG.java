@@ -1,7 +1,7 @@
 // Reciba como parámetro dos cadenas y las devuelva concatenadas.
 import java.util.Scanner;
 
-public class ejercicioG {
+public class EjercicioG {
     public static void cadenasConcatenadas() {
         Scanner sc = new Scanner(System.in); 
         // Creamos un objeto de tipo Scanner para leer datos de entrada del usuario

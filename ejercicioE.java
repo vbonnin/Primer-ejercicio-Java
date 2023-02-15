@@ -1,7 +1,7 @@
 // Reciba como parámetro un texto y devuelva el texto invertido.
 import java.util.Scanner;
 
-public class ejercicioE {
+public class EjercicioE {
     public static void inversionDeTexto() {
         Scanner sc = new Scanner(System.in); 
         // Creamos un objeto de tipo Scanner para leer datos de entrada del usuario

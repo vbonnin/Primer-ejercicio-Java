@@ -2,7 +2,7 @@
 
 import java.util.Scanner; // Importamos la clase Scanner para poder leer los numeros que introduzca el usuario
 
-public class ejercicioB {
+public class EjercicioB {
     public static void numerosInversos() {
         Scanner sc = new Scanner(System.in); 
         // Importa la clase Scanner y crea un objeto de tipo Scanner para leer datos de entrada del usuario

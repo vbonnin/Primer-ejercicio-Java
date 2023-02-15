@@ -1,7 +1,7 @@
 // Reciba como parámetro un texto y lo devuelva sin espacios en blanco.
 import java.util.Scanner;
 
-public class ejercicioF {
+public class EjercicioF {
     public static void textoSinEspacios() {
         Scanner sc = new Scanner(System.in); 
         // Creamos un objeto de tipo Scanner para leer datos de entrada del usuario

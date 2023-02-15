@@ -2,7 +2,7 @@
 // y contar el número de ceros que se han introducido por teclado.
 import java.util.Scanner;
 
-public class ejercicioC {
+public class EjercicioC {
     public static void mediaNumeros() {
         Scanner sc = new Scanner(System.in); 
         // Creamos un objeto de tipo Scanner para leer datos de entrada del usuario
